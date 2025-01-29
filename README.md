@@ -1,3 +1,5 @@
-# test2
+# test
+test repository
 
-2nd repository
+Hello GitHub
+modifies README
